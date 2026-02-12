@@ -10,3 +10,4 @@ function HeavyComponent() {
   return <p>⚙️ Heavy component loaded!</p>;
 }
 export default HeavyComponent;
+
